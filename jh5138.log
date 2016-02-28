@@ -20,3 +20,45 @@ jh5138
 * | 2d81c3f 3rd commit (2nd on master).
 |/  
 * 83241e4 1st on master (1st on master).
+
+sf2632
+*   a80d7b4 10th commit (5th on master)
+|\  
+| *   bc85f6a 9th commit (2nd on b4)
+| |\  
+| | * 9544c51 5th commit (1st on b3)
+| * | a709018 7th commit (1st on b4)
+* | |   c13b937 8th commit (4th on master)
+|\ \ \  
+| |/ /  
+|/| |   
+| * | c6ed903 4th commit (1st on b2)
+* | |   1af2933 6th commit (3rd on master)
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * e5a70a4 2nd commit (1st on b1)
+* | 1d1054d 3rd commit (2nd on master)
+|/  
+* ca004f4 1st commit (1st on master)
+
+vv744
+*   fedce3c (HEAD, master) Merge branch 'B2'
+|\  
+| *   6a38b21 (B2) Merge branch 'master' into B2
+| |\  
+| * | c9c7ff6 2nd commit in B2(5)
+* | |   a2cc97a (B1) Merge branch 'master' into B1
+|\ \ \  
+| | |/  
+| |/|   
+| * |   2740827 Merge branch 'B2'
+| |\ \  
+| | |/  
+| | * d04b22d 1st commit on B2 (3)
+* | | 9a15d5f 2nd commit on B1(4)
+|/ /  
+* | aa864ec 1st commit on B1 (2)
+|/  
+* df2059c 1st commit on master (1)
